@@ -1,0 +1,16 @@
+current directory: /Users/kuro/web/kurod1492.github.io/vendor/bundle/ruby/2.7.0/bundler/gems/eventmachine-df4ab0068e5e/ext/fastfilereader
+/Users/kuro/.anyenv/envs/rbenv/versions/2.7.4/bin/ruby -I /Users/kuro/.anyenv/envs/rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20230607-8550-1ltqlc9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kuro/web/kurod1492.github.io/vendor/bundle/ruby/2.7.0/bundler/gems/eventmachine-df4ab0068e5e/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/kuro/web/kurod1492.github.io/vendor/bundle/ruby/2.7.0/bundler/gems/eventmachine-df4ab0068e5e/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/kuro/web/kurod1492.github.io/vendor/bundle/ruby/2.7.0/bundler/gems/eventmachine-df4ab0068e5e/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20230607-8550-gju9jf
