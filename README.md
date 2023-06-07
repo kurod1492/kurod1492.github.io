@@ -1,1 +1,0 @@
-# kurod1492.github.io
